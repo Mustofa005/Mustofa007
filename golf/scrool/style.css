@@ -1,0 +1,14 @@
+.box{
+	height: 300px;
+	width: 450px;
+	background-color: yellow; 
+	margin: 10px auto;
+	box-shadow: 50px 50px 7px gray;
+}
+.container{
+	height: 250px;
+	width: 400px;
+	padding: 10px;
+	overflow: hidden;
+	overflow-y:scroll; 
+}

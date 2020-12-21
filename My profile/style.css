@@ -1,0 +1,139 @@
+body{
+	text-align:center;
+}
+.top-container{
+	background-color:skyblue;
+	position: relative;
+	padding-top: 100px;
+}
+.middle-container{
+	background:white;
+}
+.bottom-container{
+	background-color: skyblue;
+	padding: 50px 0 20px;
+}
+.top-cloud{
+	margin-left: 300px;
+	height: 70px;
+	width: 200px;
+}
+.cloud{
+	margin-right: 300px;
+	height: 70px;
+	width: 200px;
+}
+.chillies{
+	margin-left: 300px;
+	margin-bottom: 30px;
+	height: 100px;
+	width: 100px;
+}
+.web{
+	margin-right: 300px;
+	margin-bottom: 20px;
+	height: 120px;
+	width: 120px;
+}
+.name{
+	color: #16a596;
+	background-color: skyblue;
+	font-family: Niconne;
+	font-size: 50px;
+}
+.nam{
+	color: #16a596;
+	background-color: skyblue;
+	font-size: 30px;
+}
+.hello{
+	color: #16a596;
+	font-size: 50px;
+}
+.mustofa{
+margin-top: 90px;
+height: 350px;
+width: 350px;
+}
+.skills{
+	color: #16a596;
+	font-size: 50px;
+}
+.design{
+	color: #16a596;
+}
+.dolor{
+	color: #16a596;
+	margin-right: 240px;
+	margin-top: 120px;
+}
+.get{
+	color: #16a596;
+	font-size: 40px;
+	margin-top: 200px;
+}
+.lorem{
+	color: #16a596;
+}
+.button{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.button .btn{
+  text-decoration: none;
+  color: #fff;
+  border-radius: 20px;
+  border: 1px solid #fff;
+  padding:  8px 12px;
+  font-size: 19px;
+  font-family: 'Patua One';
+  background-color: #16a596;
+}
+.link{
+	color: #16a596;
+	text-decoration: none;
+	font-size: 20px;
+	margin-left: 290px;
+	font-family: 'Lato', sans-serif;
+
+}
+.twitter{
+	color: #16a596;
+	text-decoration: none;
+	font-size: 20px;
+	margin-left: 20px;
+	font-family: 'Lato', sans-serif;
+}
+.web{
+	color: #16a596;
+	text-decoration: none;
+	font-size: 20px;
+	margin-left: 20px;
+	font-family: 'Lato', sans-serif;
+}
+.middle-container .intro {
+	width: 30%;
+	margin: auto;
+}
+.work {
+	width: 30%;
+	margin: auto;
+}
+.lorem {
+	width: 30%;
+	margin: auto;
+	color: #16a596;
+}
+.amet {
+	width: 30%;
+	margin: auto;
+}
+.footer p{
+  color: white;
+}
+hr {
+	border:dotted #EAF6F6 6px;
+	border-bottom: none;
+	width: 4px;
+	margin:100px auto;
+}
